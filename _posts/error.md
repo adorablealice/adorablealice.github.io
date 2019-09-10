@@ -1,3 +1,16 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      报错记录	        # 标题 
+subtitle:           #副标题
+date:       2019-09-10              # 时间
+author:     alice                      # 作者
+catalog: true                       # 是否归档
+tags:                               #标签
+    - Redis
+---
+
+
+
 ### 1.从github下载自己的项目，导入时发生错误
 
 Cannot load module file 'C:/Users/42536/Desktop/QRcode-master/bootdo/bootdo.iml':FileC:\Users\42536\Desktop\xxQRcode-master\bootdo\bootdo.iml does not exist Would you like to remove module 'bootdo' from the project?
