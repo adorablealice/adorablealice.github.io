@@ -6,7 +6,7 @@ date:       2019-09-10              # 时间
 author:     alice                      # 作者
 catalog: true                       # 是否归档
 tags:                               #标签
-    
+        - note for errors
 ---
 
 
