@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      SpringBoot	        # 标题 
+title:      2019-09-24-springboot_note  # 标题 
 subtitle:    报错笔记  #副标题
 date:       2019-09-24              # 时间
 author:     alice                      # 作者
